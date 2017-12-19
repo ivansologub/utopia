@@ -34,3 +34,5 @@ Marketing&amp;management consulting.
 | [Lets Talk Bitcoin](https://www.reddit.com/r/letstalkbitcoin)  | Let's Talk Bitcoin podcast                               | 550     | 
 | [True Bitcoin](https://www.reddit.com/r/TrueBitcoin)       | Bitcoin without the silliness.                           | 500     | 
 
+Join us on [Facebook](http://facebook.com/UtopiaConsultingEurope-126519744707065). 
+
