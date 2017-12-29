@@ -8,3 +8,7 @@ Marketing&amp;management consulting for startup&bussines.
 ## Stock exchange for cryptocurrency 
 
 [Exchange](https://github.com/ivansologub/utopia/blob/master/cryptoexchange.md) list with API
+
+## Stock exchange for cryptocurrency 
+
+[Startup list](https://github.com/ivansologub/utopia/blob/master/startupslist.md) - awesome startup list
