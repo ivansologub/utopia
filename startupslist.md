@@ -13,6 +13,21 @@
 - [Resources](#resources)
 - [Engineering](#engineering)
 
+## Media
+
+- TechCrunch: http://techcrunch.com/
+- Wired: http://www.wired.com/
+- Fast Company: http://www.fastcompany.com/
+- The Verge: http://www.theverge.com/
+- Business Insider: http://www.businessinsider.com/sai
+- Recode: http://www.recode.net/
+- MIT Technology Review: https://www.technologyreview.com
+- The Next Web: http://thenextweb.com/
+- Engadget: http://www.engadget.com/
+- VentureBeat: http://venturebeat.com/
+- CB Insights: https://www.cbinsights.com/blog/
+- Tech in Asia: https://www.techinasia.com/
+
 ## Book
 * [Quotes / Lessons / Videos for Entrepreneurs and Startups](http://www.blockshelf.com/)
 * [For Entrepreneurs](http://powerbooks.strikingly.com/)
@@ -50,8 +65,36 @@
 
 ## Blogs 
 
-* [Sam Altman's blog](http://blog.samaltman.com/)
-* [Startup advice, briefly](http://blog.samaltman.com/startup-advice-briefly)
+[Startup advice, briefly](http://blog.samaltman.com/startup-advice-briefly)
+
+- Founders
+    - Paul Graham: http://paulgraham.com/articles.html
+    - Steve Blank: https://steveblank.com/
+    - Eric Ries, Startup Lessons Learned: http://www.startuplessonslearned.com/
+    - Sam Altman: http://blog.samaltman.com/
+    - Jessica Livingston, Founders at Work: http://foundersatwork.posthaven.com/
+    - Justin Kan: http://justinkan.com/
+    - Garry Tan: http://blog.garrytan.com/
+    - Joel Gascoigne: http://joel.is/
+- VCs
+    - Mark Suster, Both Sides of the Table: https://bothsidesofthetable.com/
+    - Fred Wilson, AVC: http://avc.com/
+    - Hunter Walk: https://hunterwalk.com/
+    - Brad Feld, Feld Thoughts: http://www.feld.com/
+    - Bill Gurley, Above the Crowd: http://abovethecrowd.com/
+    - [Sam Altman's blog](http://blog.samaltman.com/)
+- Tech Analysis
+    - Andrew Chen: http://andrewchen.co/
+    - Ben Thompson, Stratechery: https://stratechery.com/
+    - Benedict Evans: http://ben-evans.com/
+- General
+    - Zach Holman: https://zachholman.com/
+    - Ken Norton: https://www.kennorton.com
+    - Paul Stamatiou: http://paulstamatiou.com/
+    - Brian Balfour, Coeleveate: http://www.coelevate.com/
+    - Sachin Rekhi: http://www.sachinrekhi.com/
+    - Khoi Vinh, Subtraction: https://www.subtraction.com/
+    - Tren Griffin, 25iq: https://25iq.com/
 
 ## Course
 
